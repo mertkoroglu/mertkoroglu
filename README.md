@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mertkoroglu
+- 👀 I’m interested in Web and Game Development
+- 🌱 I’m currently learning Mobile Development and Data Analysis
+- 📫 How to reach me: mertkoroglu02@gmail.com
+- 
