@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mertkoroglu
 - 👀 I’m interested in Game Development
 - 📫 How to reach me: mertkoroglu02@gmail.com
-- My Itch.io page: [mertkoroglu.itch.io](https:/mertkoroglu.itch.io)
+- My Itch.io page: [mertkoroglu.itch.io](https://mertkoroglu.itch.io)
