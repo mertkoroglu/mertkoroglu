@@ -1,8 +1,5 @@
 
 <div align="center">
-<p>
-  Hi, I'm Mert
-</p>
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi,%20I'm%20Mert&width=700&height=200)](https://github.com/Akshay090/svg-banners)
   
