@@ -1,7 +1,6 @@
 
 <div align="center">
   
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20Mert.&width=700&height=100)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertkoroglu&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mertkoroglu&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mertkoroglu&theme=dracula)
